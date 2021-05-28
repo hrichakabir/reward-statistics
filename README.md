@@ -32,6 +32,7 @@ It will return total rewards along with average reward per order or No order if 
 **To Run the application:**
 - Clone this repo.
 - Go to reward-statistics folder
-- Give execution permission to bin/fooda file chmod +x bin/fooda
-- Run bundle install
-- Run bin/fooda
+- Give execution permission to bin/fooda file `chmod +x bin/fooda`
+- Run `bundle install`
+- Run `bin/fooda`
+- To run specs `rspec specs/engine/engine_user_spec.rb`
